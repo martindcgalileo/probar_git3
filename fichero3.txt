@@ -1,1 +1,2 @@
 Este fichero ha sido añadido en la version beta
+Este texto irá en el commit2 de la version beta
